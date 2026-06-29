@@ -1,7 +1,6 @@
 <div align="center">
 
-# Raínne Carvalho
-
+# Raínne Carvalho Lima
 **Software Developer · ADS @ UNIPÊ · João Pessoa, PB**
 
 _I build things that make sense — for the code and for the person using it._
